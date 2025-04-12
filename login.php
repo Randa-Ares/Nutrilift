@@ -1,4 +1,5 @@
-<?php include 'db_connect.php'; ?>
+<?php 
+include 'db_connect.php'; ?>
 <?php
 session_start();
 require_once 'config.php';
